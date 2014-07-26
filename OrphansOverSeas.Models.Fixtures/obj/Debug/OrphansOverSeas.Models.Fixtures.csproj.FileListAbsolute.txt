@@ -1,0 +1,9 @@
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models.Fixtures\bin\Debug\OrphansOverSeas.Models.Fixtures.dll
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models.Fixtures\bin\Debug\OrphansOverSeas.Models.Fixtures.pdb
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models.Fixtures\bin\Debug\nunit.framework.dll
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models.Fixtures\bin\Debug\nunit.framework.xml
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models.Fixtures\obj\Debug\OrphansOverSeas.Models.Fixtures.csprojResolveAssemblyReference.cache
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models.Fixtures\obj\Debug\OrphansOverSeas.Models.Fixtures.dll
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models.Fixtures\obj\Debug\OrphansOverSeas.Models.Fixtures.pdb
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models.Fixtures\bin\Debug\OrphansOverSeas.Models.dll
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models.Fixtures\bin\Debug\OrphansOverSeas.Models.pdb

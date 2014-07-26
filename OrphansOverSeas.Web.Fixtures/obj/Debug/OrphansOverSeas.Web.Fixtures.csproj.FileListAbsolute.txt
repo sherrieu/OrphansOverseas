@@ -1,0 +1,7 @@
+O:\Vault\OrphansOverseas\OrphansOverSeas.Web.Fixtures\bin\Debug\OrphansOverSeas.Web.Fixtures.dll
+O:\Vault\OrphansOverseas\OrphansOverSeas.Web.Fixtures\bin\Debug\OrphansOverSeas.Web.Fixtures.pdb
+O:\Vault\OrphansOverseas\OrphansOverSeas.Web.Fixtures\obj\Debug\OrphansOverSeas.Web.Fixtures.csprojResolveAssemblyReference.cache
+O:\Vault\OrphansOverseas\OrphansOverSeas.Web.Fixtures\obj\Debug\OrphansOverSeas.Web.Fixtures.dll
+O:\Vault\OrphansOverseas\OrphansOverSeas.Web.Fixtures\obj\Debug\OrphansOverSeas.Web.Fixtures.pdb
+O:\Vault\OrphansOverseas\OrphansOverSeas.Web.Fixtures\bin\Debug\nunit.framework.dll
+O:\Vault\OrphansOverseas\OrphansOverSeas.Web.Fixtures\bin\Debug\nunit.framework.xml

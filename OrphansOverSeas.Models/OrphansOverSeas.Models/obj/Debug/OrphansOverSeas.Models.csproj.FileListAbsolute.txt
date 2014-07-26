@@ -1,0 +1,5 @@
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models\OrphansOverSeas.Models\bin\Debug\OrphansOverSeas.Models.dll
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models\OrphansOverSeas.Models\bin\Debug\OrphansOverSeas.Models.pdb
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models\OrphansOverSeas.Models\obj\Debug\OrphansOverSeas.Models.csprojResolveAssemblyReference.cache
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models\OrphansOverSeas.Models\obj\Debug\OrphansOverSeas.Models.dll
+O:\Vault\OrphansOverseas\OrphansOverSeas.Models\OrphansOverSeas.Models\obj\Debug\OrphansOverSeas.Models.pdb
