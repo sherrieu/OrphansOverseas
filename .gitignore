@@ -180,3 +180,8 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+/OrphansOverSeas.Models.Fixtures/obj
+/OrphansOverSeas.Web/bin
+/OrphansOverSeas.Web/obj
+/OrphansOverSeas.Web.Fixtures/bin
+/OrphansOverSeas.Web.Fixtures/obj
